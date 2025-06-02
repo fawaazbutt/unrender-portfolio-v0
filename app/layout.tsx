@@ -8,8 +8,9 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Unrender Studio | Fawaz Butt",
-  description: "Creative Video Production & Animation Portfolio",
-    generator: 'v0.dev'
+  description: "Creative Video Production Portfolio",
+
+  
 }
 
 export default function RootLayout({
